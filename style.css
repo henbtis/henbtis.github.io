@@ -34,11 +34,17 @@ footer {
 
 h1 {
     color: darkgreen;
-    font-family: fantasy;
+    font-family: Helvetica;
+    
     font-size: 40px;
     margin: 10px 0;
     text-align: center;
 }
+p.helvetica {
+    /* sets the text to Helvetica font*/
+    font-family: Helvetica;
+}
+
 
 img {
     max-width: 100%;
